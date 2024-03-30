@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701145468 source:c:\users\mathe\documents\faculdade\prova_tite\prova_2\trabalho_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<locale.h>
+
